@@ -9,12 +9,11 @@ A curated list of Israeli companies/companies who hire Israelis - who work with 
 
 <br/>
 
-## Companies
+## Product Companies
 * [BrainPoP](https://brainpop.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Bytii Cloud](https://bytii.cloud) (Added by [@jodoron](https://twitter.com/jodoron))
 * [CloseApp](https://closeapp.co.il) (Added by [@jodoron](https://twitter.com/jodoron))
 * [cnvrg.io](https://cnvrg.io) (Added by [@jodoron](https://twitter.com/jodoron))
-* [Coding Academy](https://www.coding-academy.org) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Compie](https://www.compie.co.il) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Cool Cousin](https://www.coolcousin.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Elbit Systems](https://elbitsystems.com/) (Added by [@jodoron](https://twitter.com/jodoron))
