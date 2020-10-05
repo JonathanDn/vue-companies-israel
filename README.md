@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img width="400px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png">
 
 A curated list of Israeli companies who work with Vue JS
 (Sorted alphabetically)
