@@ -32,5 +32,6 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [Snyk](http://snyk.io) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Swimm](https://swimm.io/) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Tipalti](https://tipalti.com) (Added by [@jodoron](https://twitter.com/jodoron))
+* [T-Rex](https://www.trexgroup.com/) (Added by [@lalele](https://github.com/lalele/))
 * [Vonage](https://www.vonagetlv.com) (Added by [@YonatanKra](https://twitter.com/yonatankra))
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
