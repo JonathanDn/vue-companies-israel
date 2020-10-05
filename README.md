@@ -10,7 +10,7 @@ A curated list of Israeli companies/companies who hire Israelis - who work with 
 <br/>
 
 ## Companies
-* [BrainPoP](https://brainpop.com)
+* [BrainPoP](https://brainpop.com) (Spotted by [@jodoron](https://twitter.com/jodoron))
 * [Bytii Cloud](https://bytii.cloud)
 * [CloseApp](https://closeapp.co.il)
 * [cnvrg.io](https://cnvrg.io)
