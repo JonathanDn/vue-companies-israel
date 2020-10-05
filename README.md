@@ -9,6 +9,11 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 
 <br/>
 
+### Let Devs know you have open Vue Developers positions by:
+* Adding `✓ Looking for Vue Devs ✓` right after your company link
+
+<br/>
+
 ## Product Companies
 * [Agritask](https://start.agritask.com) (Added by [@amit](https://github.com/amit-82))
 * [BrainPoP](https://brainpop.com) (Added by [@jodoron](https://twitter.com/jodoron))
