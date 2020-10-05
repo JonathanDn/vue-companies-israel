@@ -18,7 +18,6 @@ A curated list of Israeli companies/companies who hire Israelis - who work with 
 * [Elbit Systems](https://elbitsystems.com/) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Fundbox](https:///fundbox.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Gaviti](https://www.gaviti.com) (Added by [@jodoron](https://twitter.com/jodoron))
-* [GoCode](https://gocode.co.il) (Added by [@jodoron](https://twitter.com/jodoron))
 * [GreenInvoice](https://www.greeninvoice.co.il/) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Igentify](https://www.igentify.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html) (Added by [@jodoron](https://twitter.com/jodoron))
