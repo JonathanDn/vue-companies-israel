@@ -36,4 +36,4 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [T-Rex](https://www.trexgroup.com/) (Added by [@lalele](https://github.com/lalele/))
 * [Vonage](https://www.vonagetlv.com) (Added by [@YonatanKra](https://twitter.com/yonatankra))
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
-* [Yotpo](https://www.yotpo.com) (Added by [@nimrodev](https://github.com/nimrodev))
+* [Yotpo](https://www.yotpo.com) Looking for Vue Devs✓ (Added by [@nimrodev](https://github.com/nimrodev))
