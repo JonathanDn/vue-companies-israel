@@ -32,7 +32,7 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [Outbrain](https://www.outbrain.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Pendo](https://pendo.io) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Resonai](https://resonai.com) (Added by [@jodoron](https://twitter.com/jodoron))
-* [Riseup](https://www.riseup.co.il/) (Added by [@jodoron](https://twitter.com/jodoron))
+* [Riseup](https://www.riseup.co.il/) - ✓ Looking for Vue Devs ✓ (Added by [@jodoron](https://twitter.com/jodoron))
 * [Run.ai](https://run.ai) (Added by [@davidmeirlevy](https://github.com/davidmeirlevy)
 * [Segmanta](https://segmanta.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Snyk](http://snyk.io) (Added by [@jodoron](https://twitter.com/jodoron))
