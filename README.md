@@ -16,7 +16,7 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 
 ## Product Companies
 * [Agritask](https://start.agritask.com) (Added by [@amit](https://github.com/amit-82))
-* [BrainPoP](https://brainpop.com) (Added by [@jodoron](https://twitter.com/jodoron))
+* [BrainPoP](https://brainpop.com) - ✓ Looking for Vue Devs ✓ (Added by [@jodoron](https://twitter.com/jodoron))
 * [Bytii Cloud](https://bytii.cloud) (Added by [@jodoron](https://twitter.com/jodoron))
 * [cnvrg.io](https://cnvrg.io) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Confetti](https://www.withconfetti.com/) (Added by [@jodoron](https://twitter.com/jodoron))
