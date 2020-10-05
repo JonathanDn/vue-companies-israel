@@ -13,6 +13,7 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [BrainPoP](https://brainpop.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Bytii Cloud](https://bytii.cloud) (Added by [@jodoron](https://twitter.com/jodoron))
 * [cnvrg.io](https://cnvrg.io) (Added by [@jodoron](https://twitter.com/jodoron))
+* [Confetti](https://www.withconfetti.com/) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Cool Cousin](https://www.coolcousin.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Elbit Systems](https://elbitsystems.com/) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Fundbox](https:///fundbox.com) (Added by [@jodoron](https://twitter.com/jodoron))
