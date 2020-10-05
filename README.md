@@ -2,7 +2,7 @@
   
 <img width="200px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png">
 
-A curated list of Israeli companies who work with Vue JS
+A curated list of Israeli companies/companies who hire Israelis - who work with Vue JS
 (Sorted alphabetically)
 
 </div>
