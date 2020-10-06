@@ -2,7 +2,7 @@
   
 <img width="200px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png">
 
-A curated list of Israeli companies/companies who hire Israelis - that work with Vue JS
+A curated list of Israeli product companies/product companies who hire Israelis - that work with Vue JS
 (Sorted alphabetically)
 
 </div>
@@ -11,6 +11,11 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 
 ### Let Devs know you have open Vue Developers positions by:
 * Adding `✓ Looking for Vue Devs ✓` right after your company link
+
+### What this repo is NOT:
+* A list containing freelancers working with Vue JS
+* A list containing consultancies, or software contractors working with Vue JS
+* A list of open source projects working with Vue JS
 
 <br/>
 
