@@ -42,3 +42,5 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [Vonage](https://www.vonagetlv.com) (Added by [@YonatanKra](https://twitter.com/yonatankra))
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Yotpo](https://www.yotpo.com) - ✓ Looking for Vue Devs ✓ (Added by [@nimrodev](https://github.com/nimrodev))
+* [Ibex Medical Analytics](https://ibex-ai.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
+* [BlueVine](https://www.bluevine.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
