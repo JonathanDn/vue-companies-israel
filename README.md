@@ -26,6 +26,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 * [Bytii Cloud](https://bytii.cloud) (Added by [@jodoron](https://twitter.com/jodoron))
 * [cnvrg.io](https://cnvrg.io) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Confetti](https://www.withconfetti.com/) (Added by [@jodoron](https://twitter.com/jodoron))
+* [Constru.ai](https://constru.ai/) (Added by [@silicakes](https://github.com/silicakes))
 * [Cool Cousin](https://www.coolcousin.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Elbit Systems](https://elbitsystems.com/) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Fundbox](https:///fundbox.com) (Added by [@jodoron](https://twitter.com/jodoron))
