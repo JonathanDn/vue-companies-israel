@@ -16,6 +16,7 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 
 ## Product Companies
 * [Agritask](https://start.agritask.com) (Added by [@amit](https://github.com/amit-82))
+* [BlueVine](https://www.bluevine.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
 * [BrainPoP](https://brainpop.com) - ✓ Looking for Vue Devs ✓ (Added by [@jodoron](https://twitter.com/jodoron))
 * [Bytii Cloud](https://bytii.cloud) (Added by [@jodoron](https://twitter.com/jodoron))
 * [cnvrg.io](https://cnvrg.io) (Added by [@jodoron](https://twitter.com/jodoron))
@@ -25,6 +26,7 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [Fundbox](https:///fundbox.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Gaviti](https://www.gaviti.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [GreenInvoice](https://www.greeninvoice.co.il/) (Added by [@jodoron](https://twitter.com/jodoron))
+* [Ibex Medical Analytics](https://ibex-ai.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
 * [Igentify](https://www.igentify.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Intel](https://www.intel.co.il/content/www/il/he/homepage.html) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Jacada](https://www.jacada.com/positions-in-israel) (Added by [@jodoron](https://twitter.com/jodoron))
@@ -42,5 +44,3 @@ A curated list of Israeli companies/companies who hire Israelis - that work with
 * [Vonage](https://www.vonagetlv.com) (Added by [@YonatanKra](https://twitter.com/yonatankra))
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Yotpo](https://www.yotpo.com) - ✓ Looking for Vue Devs ✓ (Added by [@nimrodev](https://github.com/nimrodev))
-* [Ibex Medical Analytics](https://ibex-ai.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
-* [BlueVine](https://www.bluevine.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
