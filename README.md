@@ -21,6 +21,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ## Product Companies
 * [Agritask](https://start.agritask.com) (Added by [@amit](https://github.com/amit-82))
+* [Anima](https://www.animaapp.com) - ✓ Looking for Vue Devs ✓ (Added by [@orarbel](https://github.com/orarbel))
 * [BlueVine](https://www.bluevine.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
 * [BrainPoP](https://brainpop.com) - ✓ Looking for Vue Devs ✓ (Added by [@jodoron](https://twitter.com/jodoron))
 * [Bytii Cloud](https://bytii.cloud) (Added by [@jodoron](https://twitter.com/jodoron))
