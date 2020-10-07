@@ -9,8 +9,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-### Companies Count: 32
-
 ### Let Devs know you have open Vue Developers positions by:
 * Adding `✓ Looking for Vue Devs ✓` right after your company link
 * Or add `🕑 Will look for Vue Devs Soon 🕑` if you will be looking for Vue Devs in the upcoming 1-4 months
@@ -22,7 +20,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-## Product Companies
+## Product Companies (32 Companies)
 * [Agritask](https://start.agritask.com) (Added by [@amit](https://github.com/amit-82))
 * [Anima](https://www.animaapp.com) - ✓ Looking for Vue Devs ✓ (Added by [@orarbel](https://github.com/orarbel))
 * [BlueVine](https://www.bluevine.com/) - (Added by [@yuval-raz-ibex](https://twitter.com/yuvalraz))
