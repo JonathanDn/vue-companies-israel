@@ -56,7 +56,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ## Product Comapnies (32)
 
-Company| Business/products                        | Tech stack/skills                              | Globally-competitive 
-------------------------------------------------- | -----------------------------            | ----------------------------                   | ------------------------------------ |
-[1](www.googe.com)                         | Web consulting                           | WordPress, PHP, Node, Web                      | ✗                                    | Anywhere                | :keyboard: [Jobs](https://10up.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-10Up-EI_IE775906.11,15.htm)
-[2](www.googe.com)               | Mobile Advertising                       | Go, Java, PHP, Angular, Python, Web, Mobile    | ✓                                    | Anywhere                | :keyboard: [Jobs](https://airpush.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com/Jobs/Airpush-Jobs-E789203.htm)
+ title1 | title2 | Title3 | Title4 | 
+|-----|-----|-----|-----|
+[1](www.googe.com) | 1 | 2 | ✗ | 2 | 
+[1](www.googe.com) | 1 | 2 | ✗ | 2 |
