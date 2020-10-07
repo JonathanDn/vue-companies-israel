@@ -58,8 +58,9 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
  Company | Recruting Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
 -----|-----|-----|-----|-----|
-[Agritask](https://start.agritask.com/) | - | - | - | [@amit](https://github.com/amit-82) | 
-[Anima](https://www.animaapp.com/) | ✓ | - | - | [@orarbel](https://github.com/orarbel) | 
+[Agritask](https://start.agritask.com/) |  |  |  | [@amit](https://github.com/amit-82) | 
+[Anima](https://www.animaapp.com/) | ✓ |  |  | [@orarbel](https://github.com/orarbel) | 
+[BlueVine](https://www.bluevine.com/) |  |  |  | [@yuval-raz-ibex](https://twitter.com/yuvalraz) | 
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
