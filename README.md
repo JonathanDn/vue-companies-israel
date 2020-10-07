@@ -60,3 +60,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 |-----|-----|-----|-----|
 [1](www.googe.com) | 1 | 2 | ✗ | 2 | 
 [1](www.googe.com) | 1 | 2 | ✗ | 2 |
+
+---
+👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
