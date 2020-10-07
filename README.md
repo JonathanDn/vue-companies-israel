@@ -56,7 +56,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ## Product Comapnies (32)
 
- Company |Recruting <img width="12px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"> Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
+ Company |Recruting <a href="#"><img width="12px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
 -----|-----|-----|-----|-----|
 [Agritask](https://start.agritask.com/) |  |  |  | [@amit](https://github.com/amit-82) | 
 [Anima](https://www.animaapp.com/) | ✓ |  |  | [@orarbel](https://github.com/orarbel) | 
