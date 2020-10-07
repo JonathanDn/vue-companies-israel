@@ -53,3 +53,10 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 * [SentinelOne](https://www.sentinelone.com/) - ✓ Looking for Vue Devs ✓ (Added by [@jodoron](https://twitter.com/jodoron))
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Yotpo](https://www.yotpo.com) - ✓ Looking for Vue Devs ✓ (Added by [@nimrodev](https://github.com/nimrodev))
+
+## Product Comapnies (32)
+
+Company                                           | Business/products                        | Tech stack/skills                              | Globally-competitive compensation?   | Hiring From             | Job page & other links
+------------------------------------------------- | -----------------------------            | ----------------------------                   | ------------------------------------ | ----------------------- | ----------------------
+[10up](https://10up.com/)                         | Web consulting                           | WordPress, PHP, Node, Web                      | ✗                                    | Anywhere                | :keyboard: [Jobs](https://10up.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-10Up-EI_IE775906.11,15.htm)
+[Airpush](https://www.airpush.com/)               | Mobile Advertising                       | Go, Java, PHP, Angular, Python, Web, Mobile    | ✓                                    | Anywhere                | :keyboard: [Jobs](https://airpush.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com/Jobs/Airpush-Jobs-E789203.htm)
