@@ -11,6 +11,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ### Let Devs know you have open Vue Developers positions by:
 * Adding `✓ Looking for Vue Devs ✓` right after your company link
+* Or add `🕑 Will look for Vue Devs Soon 🕑` if you will be looking for Vue Devs in the upcoming 1-4 months
 
 ### What this repo is NOT:
 * A list containing freelancers working with Vue JS
