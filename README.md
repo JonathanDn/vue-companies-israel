@@ -50,5 +50,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 * [Tipalti](https://tipalti.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [T-Rex](https://www.trexgroup.com/) (Added by [@lalele](https://github.com/lalele/))
 * [Vonage](https://www.vonagetlv.com) (Added by [@YonatanKra](https://twitter.com/yonatankra))
+* [SentinelOne](https://www.sentinelone.com/) - ✓ Looking for Vue Devs ✓ (Added by [@jodoron](https://twitter.com/jodoron))
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Yotpo](https://www.yotpo.com) - ✓ Looking for Vue Devs ✓ (Added by [@nimrodev](https://github.com/nimrodev))
