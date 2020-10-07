@@ -9,7 +9,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-### Current Companies Count: 32
+### Companies Count: 32
 
 ### Let Devs know you have open Vue Developers positions by:
 * Adding `✓ Looking for Vue Devs ✓` right after your company link
