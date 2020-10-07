@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="200px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png">
+<a href="#"><img width="200px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a>
 
 A curated list of Israeli product companies/product companies who hire Israelis - that work with Vue JS
 (Sorted alphabetically)
