@@ -20,7 +20,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-## Product Comapnies (32 Total)
+## Product Comapnies (30 Total)
 
  Company |Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
 -----|-----|-----|-----|-----|
@@ -32,7 +32,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Confetti](https://www.withconfetti.com/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Constru.ai](https://constru.ai/) |  |  |  | [@silicakes](https://github.com/silicakes)
 [Cool Cousin](https://www.coolcousin.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[Elbit Systems](https://elbitsystems.com/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Fundbox](https:///fundbox.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Gaviti](https://www.gaviti.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [GreenInvoice](https://www.greeninvoice.co.il/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
