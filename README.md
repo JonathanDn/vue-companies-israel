@@ -44,7 +44,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Outbrain](https://www.outbrain.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Pendo](https://pendo.io) | ✓ |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 [Resonai](https://resonai.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
-[Riseup](https://www.riseup.co.il/) ✓ |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Riseup](https://www.riseup.co.il/) | ✓ |  |  | [@jodoron](https://twitter.com/jodoron)
 [Run.ai](https://run.ai) |  |  |  | [@davidmeirlevy](https://github.com/davidmeirlevy)
 [Segmanta](https://segmanta.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Snyk](http://snyk.io) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
