@@ -44,7 +44,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Resonai](https://resonai.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Riseup](https://www.riseup.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Run.ai](https://run.ai) |  |  | Tel Aviv | [@davidmeirlevy](https://github.com/davidmeirlevy)
-[Segmanta](https://segmanta.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Segmanta](https://segmanta.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Snyk](http://snyk.io) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Swimm](https://swimm.io/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Tipalti](https://tipalti.com) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
