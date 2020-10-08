@@ -34,7 +34,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Cool Cousin](https://www.coolcousin.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Fundbox](https:///fundbox.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[GreenInvoice](https://www.greeninvoice.co.il/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+[GreenInvoice](https://www.greeninvoice.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Ibex Medical Analytics](https://ibex-ai.com/) |  |  |  |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 [Igentify](https://www.igentify.com) |  |  | Cesearea | [@jodoron](https://twitter.com/jodoron)
 [Jacada](https://www.jacada.com/positions-in-israel) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
@@ -52,6 +52,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Vonage](https://www.vonagetlv.com) |  |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
 [SentinelOne](https://www.sentinelone.com/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [WiseStamp](https://www.wisestamp.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Yad2](https://www.yad2.co.il/)| ✓ |  |  | [@RonnyO](https://github.com/RonnyO)
 [Yotpo](https://www.yotpo.com) | ✓ |  | Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 
 ---
