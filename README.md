@@ -41,19 +41,19 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Mintigo](https://www.mintigo.com) |  |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
 [Outbrain](https://www.outbrain.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Pendo](https://pendo.io) | ✓ |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
-[Resonai](https://resonai.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
-[Riseup](https://www.riseup.co.il/) | ✓ |  |  | [@jodoron](https://twitter.com/jodoron)
+[Resonai](https://resonai.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+[Riseup](https://www.riseup.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Run.ai](https://run.ai) |  |  |  | [@davidmeirlevy](https://github.com/davidmeirlevy)
 [Segmanta](https://segmanta.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Snyk](http://snyk.io) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Swimm](https://swimm.io/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[Tipalti](https://tipalti.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Tipalti](https://tipalti.com) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 [T-Rex](https://www.trexgroup.com/) |  |  |  | [@lalele](https://github.com/lalele/)
 [Vonage](https://www.vonagetlv.com) |  |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
 [SentinelOne](https://www.sentinelone.com/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [WiseStamp](https://www.wisestamp.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Yad2](https://www.yad2.co.il/)| ✓ |  |  | [@RonnyO](https://github.com/RonnyO)
-[Yotpo](https://www.yotpo.com) | ✓ |  |  | [@nimrodev](https://github.com/nimrodev)
+[Yotpo](https://www.yotpo.com) | ✓ |  | Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
