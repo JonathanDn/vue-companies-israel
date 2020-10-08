@@ -20,7 +20,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-## Product Comapnies (30 Total)
+## Product Comapnies (29 Total)
 
  Company |Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
 -----|-----|-----|-----|-----|
@@ -37,7 +37,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [GreenInvoice](https://www.greeninvoice.co.il/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Ibex Medical Analytics](https://ibex-ai.com/) |  |  |  |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 [Igentify](https://www.igentify.com) |  |  | Cesearea | [@jodoron](https://twitter.com/jodoron)
-[Intel](https://www.intel.co.il/content/www/il/he/homepage.html) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Jacada](https://www.jacada.com/positions-in-israel) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Mintigo](https://www.mintigo.com) |  |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
 [Outbrain](https://www.outbrain.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
