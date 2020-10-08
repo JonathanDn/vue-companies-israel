@@ -25,7 +25,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
  Company |Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
 -----|-----|-----|-----|-----|
 [Agritask](https://start.agritask.com/) |  |  |  | [@amit](https://github.com/amit-82) | 
-[Anima](https://www.animaapp.com/) | ✓ |  |  | [@orarbel](https://github.com/orarbel) | 
+[Anima](https://www.animaapp.com/) | ✓ |  | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
 [BlueVine](https://www.bluevine.com/) |  |  |  | [@yuval-raz-ibex](https://twitter.com/yuvalraz) | 
 [BrainPoP](https://brainpop.com) | ✓ |  | Remote | [@jodoron](https://twitter.com/jodoron)
 [Bytii Cloud](https://bytii.cloud) |  |  |  | [@jodoron](https://twitter.com/jodoron)
