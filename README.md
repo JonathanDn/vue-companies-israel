@@ -38,7 +38,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Gaviti](https://www.gaviti.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [GreenInvoice](https://www.greeninvoice.co.il/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Ibex Medical Analytics](https://ibex-ai.com/) |  |  |  |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
-[Igentify](https://www.igentify.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Igentify](https://www.igentify.com) |  |  | Cesearea | [@jodoron](https://twitter.com/jodoron)
 [Intel](https://www.intel.co.il/content/www/il/he/homepage.html) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Jacada](https://www.jacada.com/positions-in-israel) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Mintigo](https://www.mintigo.com) |  |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
