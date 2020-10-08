@@ -64,6 +64,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [BrainPoP](https://brainpop.com) | ✓ |  |  | [@jodoron](https://twitter.com/jodoron)
 [Bytii Cloud](https://bytii.cloud) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [cnvrg.io](https://cnvrg.io) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Confetti](https://www.withconfetti.com/) |  |  |  | (Added by [@jodoron](https://twitter.com/jodoron))
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
