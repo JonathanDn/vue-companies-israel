@@ -30,7 +30,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [BrainPoP](https://brainpop.com) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [cnvrg.io](https://cnvrg.io) |  |  | Jerusalem | [@jodoron](https://twitter.com/jodoron)
 [Confetti](https://www.withconfetti.com/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[Constru.ai](https://constru.ai/) |  |  |  | [@silicakes](https://github.com/silicakes)
+[Constru.ai](https://constru.ai/) |  |  | Tel Aviv | [@silicakes](https://github.com/silicakes)
 [Cool Cousin](https://www.coolcousin.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Fundbox](https:///fundbox.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
