@@ -66,7 +66,8 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [cnvrg.io](https://cnvrg.io) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Confetti](https://www.withconfetti.com/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Constru.ai](https://constru.ai/) |  |  |  | [@silicakes](https://github.com/silicakes)
-[Cool Cousin](https://www.coolcousin.com) [@jodoron](https://twitter.com/jodoron)
+[Cool Cousin](https://www.coolcousin.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Elbit Systems](https://elbitsystems.com/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
