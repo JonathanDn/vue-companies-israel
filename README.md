@@ -70,7 +70,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Elbit Systems](https://elbitsystems.com/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Fundbox](https:///fundbox.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Gaviti](https://www.gaviti.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
-[GreenInvoice](https://www.greeninvoice.co.il/) |  |  |  | (Added by [@jodoron](https://twitter.com/jodoron))
+[GreenInvoice](https://www.greeninvoice.co.il/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
