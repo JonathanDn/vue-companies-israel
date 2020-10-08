@@ -54,7 +54,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 * [WiseStamp](https://www.wisestamp.com) (Added by [@jodoron](https://twitter.com/jodoron))
 * [Yotpo](https://www.yotpo.com) - ✓ Looking for Vue Devs ✓ (Added by [@nimrodev](https://github.com/nimrodev))
 
-## Product Comapnies (32)
+## Product Comapnies (32 Total)
 
  Company |Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Will Recruit Soon(1-4 months) | Location | Contact | 
 -----|-----|-----|-----|-----|
