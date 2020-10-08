@@ -33,7 +33,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Constru.ai](https://constru.ai/) |  |  |  | [@silicakes](https://github.com/silicakes)
 [Cool Cousin](https://www.coolcousin.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Fundbox](https:///fundbox.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[Gaviti](https://www.gaviti.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [GreenInvoice](https://www.greeninvoice.co.il/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Ibex Medical Analytics](https://ibex-ai.com/) |  |  |  |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 [Igentify](https://www.igentify.com) |  |  | Cesearea | [@jodoron](https://twitter.com/jodoron)
