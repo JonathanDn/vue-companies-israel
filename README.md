@@ -51,7 +51,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [T-Rex](https://www.trexgroup.com/) |  |  |  | [@lalele](https://github.com/lalele/)
 [Vonage](https://www.vonagetlv.com) |  |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
 [SentinelOne](https://www.sentinelone.com/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[WiseStamp](https://www.wisestamp.com) |  |  |  | [@jodoron](https://twitter.com/jodoron))
+[WiseStamp](https://www.wisestamp.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Yotpo](https://www.yotpo.com) | ✓ |  | Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 
 ---
