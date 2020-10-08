@@ -52,7 +52,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Vonage](https://www.vonagetlv.com) |  |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
 [SentinelOne](https://www.sentinelone.com/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [WiseStamp](https://www.wisestamp.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[Yad2](https://www.yad2.co.il/)| ✓ |  |  | [@RonnyO](https://github.com/RonnyO)
+[Yad2](https://www.yad2.co.il/)| ✓ |  | Ramat Gan | [@RonnyO](https://github.com/RonnyO)
 [Yotpo](https://www.yotpo.com) | ✓ |  | Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 
 ---
