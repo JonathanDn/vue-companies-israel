@@ -68,7 +68,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Constru.ai](https://constru.ai/) |  |  |  | [@silicakes](https://github.com/silicakes)
 [Cool Cousin](https://www.coolcousin.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Elbit Systems](https://elbitsystems.com/) |  |  |  | [@jodoron](https://twitter.com/jodoron)
-[Fundbox](https:///fundbox.com)[@jodoron] |  |  |  | (https://twitter.com/jodoron)
+[Fundbox](https:///fundbox.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
