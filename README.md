@@ -48,7 +48,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Snyk](http://snyk.io) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Swimm](https://swimm.io/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Tipalti](https://tipalti.com) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
-[T-Rex](https://www.trexgroup.com/) |  |  |  | [@lalele](https://github.com/lalele/)
+[T-Rex](https://www.trexgroup.com/) |  |  | Tel Aviv | [@lalele](https://github.com/lalele/)
 [Vonage](https://www.vonagetlv.com) |  |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
 [SentinelOne](https://www.sentinelone.com/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [WiseStamp](https://www.wisestamp.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
