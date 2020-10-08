@@ -31,6 +31,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=cnvrg.io) [cnvrg.io](https://cnvrg.io) |  |  | Jerusalem | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.withconfetti.com) [Confetti](https://www.withconfetti.com/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=constru.ai) [Constru.ai](https://constru.ai/) |  |  | Tel Aviv | [@silicakes](https://github.com/silicakes)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://www.igentify.com) [Igentify](https://www.igentify.com/)| ✓ |  | From Home | [@Dotan](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.coolcousin.com) [Cool Cousin](https://www.coolcousin.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https:///fundbox.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
@@ -54,6 +55,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wisestamp.com) [WiseStamp](https://www.wisestamp.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  | Tel Aviv | [@nimrodev](https://github.com/nimrodev)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://www.igentify.com) [Igentify](https://www.igentify.com/)| ✓ |  | From Home | [@Dotan](https://github.com/talitman)
+
 ---
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
