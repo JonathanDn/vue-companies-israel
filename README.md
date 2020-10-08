@@ -39,7 +39,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Igentify](https://www.igentify.com) |  |  | Cesearea | [@jodoron](https://twitter.com/jodoron)
 [Jacada](https://www.jacada.com/positions-in-israel) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 [Mintigo](https://www.mintigo.com) |  |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
-[Outbrain](https://www.outbrain.com) |  |  |  | [@jodoron](https://twitter.com/jodoron)
+[Outbrain](https://www.outbrain.com) |  |  | Netanya | [@jodoron](https://twitter.com/jodoron)
 [Pendo](https://pendo.io) | ✓ |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 [Resonai](https://resonai.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Riseup](https://www.riseup.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
