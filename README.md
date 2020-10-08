@@ -36,7 +36,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=ibex-ai.com) [Ibex Medical Analytics](https://ibex-ai.com/) |  |  |  |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ |  | From Home | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ |  | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.mintigo.com) [Mintigo](https://www.mintigo.com) |  |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.outbrain.com) [Outbrain](https://www.outbrain.com) |  |  | Netanya | [@jodoron](https://twitter.com/jodoron)
