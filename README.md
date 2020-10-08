@@ -35,7 +35,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Fundbox](https:///fundbox.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-[Ibex Medical Analytics](https://ibex-ai.com/) |  |  |  |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
+[Ibex Medical Analytics](https://ibex-ai.com/) |  |  | Tel Aviv |  [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 [Igentify](https://www.igentify.com) |  |  | Cesearea | [@jodoron](https://twitter.com/jodoron)
 [Jacada](https://www.jacada.com/positions-in-israel) |  |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 [Mintigo](https://www.mintigo.com) |  |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
