@@ -28,7 +28,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 [Anima](https://www.animaapp.com/) | ✓ |  | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
 [BlueVine](https://www.bluevine.com/) |  |  | Tel Aviv | [@yuval-raz-ibex](https://twitter.com/yuvalraz) | 
 [BrainPoP](https://brainpop.com) | ✓ |  | Remote | [@jodoron](https://twitter.com/jodoron)
-[Bytii Cloud](https://bytii.cloud) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [cnvrg.io](https://cnvrg.io) |  |  |  | [@jodoron](https://twitter.com/jodoron)
 [Confetti](https://www.withconfetti.com/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 [Constru.ai](https://constru.ai/) |  |  |  | [@silicakes](https://github.com/silicakes)
