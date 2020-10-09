@@ -32,6 +32,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.withconfetti.com) [Confetti](https://www.withconfetti.com/) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=constru.ai) [Constru.ai](https://constru.ai/) |  |  | Tel Aviv | [@silicakes](https://github.com/silicakes)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.coolcousin.com) [Cool Cousin](https://www.coolcousin.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=daily.dev) [daily.dev](https://daily.dev) |  |  | Tel Aviv | [@idoshamun](https://twitter.com/idoshamun)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https:///fundbox.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
