@@ -13,7 +13,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 * Adding `✓` to the `Recruting Devs` column
 * Or add `🕑` to the `Will Recruit Soon(1-4 months)` column if you will be looking for Devs soon 
 
-### What this repo is NOT a list containing freelancers, consultancies, software contractors or open source projects working with Vue JS
+#### What this repo is NOT a list containing freelancers, consultancies, software contractors or open source projects working with Vue JS
 
 <br/>
 
