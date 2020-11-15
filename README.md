@@ -17,7 +17,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-## Product Comapnies (32 Total)
+## Product Companies (32 Total)
 
  Company | Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
