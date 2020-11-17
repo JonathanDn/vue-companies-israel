@@ -17,7 +17,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-## Product Comapnies (32 Total)
+## Product Companies (33 Total)
 
  Company | Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -37,6 +37,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.mintigo.com) [Mintigo](https://www.mintigo.com) |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=nonamesecurity.com) [Noname Security](https://nonamesecurity.com) | ✓ | Tel Aviv | [@netanel](mailto:netanelm@nonamesecurity.com?subject=I%20Love%20Vue)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.outbrain.com) [Outbrain](https://www.outbrain.com) |  | Netanya | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=pendo.io) [Pendo](https://pendo.io) | ✓ | Herzliya | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=resonai.com) [Resonai](https://resonai.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
