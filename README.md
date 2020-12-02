@@ -11,7 +11,6 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ### Let Devs know you have open Vue Developers positions by:
 * Adding `✓` to the `Recruting Devs` column
-* Or add `🕑` to the `Will Recruit Soon(1-4 months)` column if you will be looking for Devs soon 
 
 #### This list does NOT contain freelancers, consultancies, software contractors or open source projects working with Vue JS
 
