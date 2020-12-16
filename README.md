@@ -24,6 +24,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.animaapp.com) [Anima](https://www.animaapp.com/) | ✓ | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.bluevine.com) [BlueVine](https://www.bluevine.com/) |  | Tel Aviv | [@yuval-raz-ibex](https://twitter.com/yuvalraz) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=brainpop.com) [BrainPoP](https://brainpop.com) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=breezometer.com) [BreezoMeter](https://breezometer.com) |  | Haifa | [@ofeka_dev](https://twitter.com/@ofeka_dev)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=cnvrg.io) [cnvrg.io](https://cnvrg.io) |  | Jerusalem | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.withconfetti.com) [Confetti](https://www.withconfetti.com/) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=constru.ai) [Constru.ai](https://constru.ai/) |  | Tel Aviv | [@silicakes](https://github.com/silicakes)
