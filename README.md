@@ -16,7 +16,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 <br/>
 
-## Product Companies (34 Total)
+## Product Companies (35 Total)
 
  Company | Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -44,6 +44,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.riseup.co.il) [Riseup](https://www.riseup.co.il/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=run.ai) [Run.ai](https://run.ai) |  | Tel Aviv | [@davidmeirlevy](https://github.com/davidmeirlevy)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=segmanta.com) [Segmanta](https://segmanta.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=snyk.io) [Snyk](http://snyk.io) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=swimm.io) [Swimm](https://swimm.io/) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=tipalti.com) [Tipalti](https://tipalti.com) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
