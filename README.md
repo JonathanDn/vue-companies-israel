@@ -10,7 +10,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 <br/>
 
 ### Let Devs know you have open Vue Developers positions by:
-* Adding `✓` to the `Recruting Devs` column
+* Adding `✓` to the `Recruiting Devs` column
 
 #### This list does NOT contain freelancers, consultancies, software contractors or open source projects working with Vue JS
 
@@ -18,7 +18,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ## Product Companies (36 Total)
 
- Company | Recruting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
+ Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=start.agritask.com) [Agritask](https://start.agritask.com/) |  | Tel Aviv | [@amit](https://github.com/amit-82) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.animaapp.com) [Anima](https://www.animaapp.com/) | ✓ | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
