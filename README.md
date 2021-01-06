@@ -30,6 +30,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.withconfetti.com) [Confetti](https://www.withconfetti.com/) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=constru.ai) [Constru.ai](https://constru.ai/) |  | Tel Aviv | [@silicakes](https://github.com/silicakes)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.coolcousin.com) [Cool Cousin](https://www.coolcousin.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.cynerio.com) [Cynerio](https://www.cynerio.com) |  | Tel Aviv | [@db_doskey](https://twitter.com/db_doskey)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=daily.dev) [daily.dev](https://daily.dev) |  | Tel Aviv | [@idoshamun](https://twitter.com/idoshamun)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https:///fundbox.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
