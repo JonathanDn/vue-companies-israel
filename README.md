@@ -1,6 +1,6 @@
 <div align="center">
   
-<a href="#"><img width="200px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a>
+<a href="#"><img width="200px" src="Vue_products_of_Israel_Logo.png"></a>
 
 A curated list of Israeli product companies/product companies who hire Israelis - that work with Vue JS
 (Sorted alphabetically)
@@ -18,7 +18,7 @@ A curated list of Israeli product companies/product companies who hire Israelis 
 
 ## Product Companies (41 Total)
 
- Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
+ Company | Recruiting <a href="#"><img width="14px" src="Vue_products_of_Israel_Logo.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=start.agritask.com) [Agritask](https://start.agritask.com/) |  | Tel Aviv | [@amit](https://github.com/amit-82) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.animaapp.com) [Anima](https://www.animaapp.com/) | ✓ | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
