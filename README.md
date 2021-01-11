@@ -1,6 +1,6 @@
 <div align="center">
   
-<a href="#"><img width="320px" src="Vue_products_of_Israel_Logo.png"></a>
+<a href="#"><img width="320px" src="Vue_products_of_Israel_Logo.png" title="Products of Israel"></a>
 
 <p style="max-width: 500px;">A curated list of Israeli product companies/product companies who hire Israelis - that work with Vue JS
 (Sorted alphabetically)</p>
