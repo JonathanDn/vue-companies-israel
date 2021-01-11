@@ -1,7 +1,7 @@
 <div align="center">
   
 <a href="#"><img width="320px" src="Vue_products_of_Israel_Logo.png" title="Products of Israel"></a>
-<h5>Img credit for the amazing <a href="https://twitter.com/adircode">@adircode</a></h5>
+<h5>logo design credit for the amazing <a href="https://twitter.com/adircode">@adircode</a></h5>
 
 <h3>A curated list of Israeli product companies/ product companies who hire Israelis - that work with Vue JS</h3>
 (Sorted alphabetically)
