@@ -1,9 +1,9 @@
 <div align="center">
   
 <a href="#"><img width="320px" src="Vue_products_of_Israel_Logo.png" title="Products of Israel"></a>
+<h5>logo design credit for the amazing <a href="https://twitter.com/adircode">@adircode</a></h5>
 
-A curated list of Israeli product companies/ product companies who hire Israelis - that work with Vue JS
-
+<h3>A curated list of Israeli product companies/ product companies who hire Israelis - that work with Vue JS</h3>
 (Sorted alphabetically)
 
 </div>
@@ -61,7 +61,7 @@ A curated list of Israeli product companies/ product companies who hire Israelis
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.oz-code.com) [Ozcode](https://oz-code.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/OmerRaviv)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.oz-code.com) [Ozcode](https://oz-code.com) | ✓ |  Tel Aviv | [@OmerRaviv](https://github.com/OmerRaviv)
 
 
 ---
