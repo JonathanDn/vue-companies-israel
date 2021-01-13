@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (42 Total)
+## Product Companies (43 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -40,6 +40,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=ibex-ai.com) [Ibex Medical Analytics](https://ibex-ai.com/) | ✓ | Tel Aviv / Home | [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=loox.app) [Loox](https://jobs.loox.io/) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.mintigo.com) [Mintigo](https://www.mintigo.com) |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=nonamesecurity.com) [Noname Security](https://nonamesecurity.com) | ✓ | Tel Aviv | [@netanel](mailto:netanelm@nonamesecurity.com?subject=I%20Love%20Vue)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.outbrain.com) [Outbrain](https://www.outbrain.com) |  | Netanya | [@jodoron](https://twitter.com/jodoron)
