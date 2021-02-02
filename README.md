@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (45 Total)
+## Product Companies (46 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -36,6 +36,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=daily.dev) [daily.dev](https://daily.dev) |  | Tel Aviv | [@idoshamun](https://twitter.com/idoshamun)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.elbitsystems.com) [Elbit Systems](https://elbitsystems.com/) | ✓ |  Netanya | [@nsxr51](https://github.com/nsxr51)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=finaloop.com) [Finaloop](https://finaloop.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https:///fundbox.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  | Tel Aviv | [@akomarovsky](https://www.linkedin.com/in/alexkomarovsky/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
