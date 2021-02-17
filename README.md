@@ -69,6 +69,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.oz-code.com) [Ozcode](https://oz-code.com) | ✓ |  Tel Aviv | [@OmerRaviv](https://github.com/OmerRaviv)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=console.rele.ai) [RELE.AI](https://rele.ai) |  |  Tel Aviv | [@ElonSalfati](https://github.com/ElonSalfati)
 
 
 
