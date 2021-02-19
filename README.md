@@ -37,7 +37,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.elbitsystems.com) [Elbit Systems](https://elbitsystems.com/) | ✓ |  Netanya | [@nsxr51](https://github.com/nsxr51)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=finaloop.com) [Finaloop](https://finaloop.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https:///fundbox.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https://fundbox.com) | ✓ | Tel Aviv | [@forforeach](https://twitter.com/forforeach)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  | Tel Aviv | [@akomarovsky](https://www.linkedin.com/in/alexkomarovsky/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.geteat.co.il) [Geteat](https://geteat.co.il) |  |  Omer | [@avrahamba](https://github.com/avrahamba)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
