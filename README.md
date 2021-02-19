@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (51 Total)
+## Product Companies (52 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -68,6 +68,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sparkbeyond.com) [SparkBeyond](https://www.sparkbeyond.com/) | ✓ | Netanya | [@annab1](https://github.com/annab1)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.storemaven.com) [Storemaven](https://www.storemaven.com/) | ✓ | Tel Aviv | [@roybarash](https://github.com/roybarash)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wisestamp.com) [WiseStamp](https://www.wisestamp.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Wochit](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
