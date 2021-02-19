@@ -41,6 +41,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  | Tel Aviv | [@akomarovsky](https://www.linkedin.com/in/alexkomarovsky/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.geteat.co.il) [Geteat](https://geteat.co.il) |  |  Omer | [@avrahamba](https://github.com/avrahamba)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=ibex-ai.com) [Ibex Medical Analytics](https://ibex-ai.com/) | ✓ | Tel Aviv / Home | [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
@@ -71,7 +72,6 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Wochit](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.oz-code.com) [Ozcode](https://oz-code.com) | ✓ |  Tel Aviv | [@OmerRaviv](https://github.com/OmerRaviv)
 
 
