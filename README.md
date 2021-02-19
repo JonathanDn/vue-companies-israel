@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (52 Total)
+## Product Companies (53 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -54,6 +54,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.oz-code.com) [Ozcode](https://oz-code.com) | ✓ |  Tel Aviv | [@OmerRaviv](https://github.com/OmerRaviv)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=pendo.io) [Pendo](https://pendo.io) | ✓ | Herzliya | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.pic-time.com) [Pic-Time](https://www.pic-time.com) |  | From Home | [@shoobyd](https://github.com/ShoobyD)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=app.powerdoc.co) [powerdoc](https://powerdoc.co.il) |  | Raanana | [@israelz](https://www.linkedin.com/in/israel-zhout-80291071/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=resonai.com) [Resonai](https://resonai.com) | ✓ | Tel Aviv | [@bergden-resonai](https://github.com/bergden-resonai)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.riseup.co.il) [Riseup](https://www.riseup.co.il/) | ✓ | Tel Aviv | [@mayaschuster](https://github.com/mayaschuster)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=run.ai) [Run.ai](https://run.ai) |  | Tel Aviv | [@davidmeirlevy](https://github.com/davidmeirlevy)
