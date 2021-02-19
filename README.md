@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (51 Total)
+## Product Companies (52 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -72,6 +72,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.oz-code.com) [Ozcode](https://oz-code.com) | ✓ |  Tel Aviv | [@OmerRaviv](https://github.com/OmerRaviv)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Ozcode](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 
 
 
