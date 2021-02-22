@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (53 Total)
+## Product Companies (54 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -45,6 +45,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=ibex-ai.com) [Ibex Medical Analytics](https://ibex-ai.com/) | ✓ | Tel Aviv / Home | [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=bandpad.co) [Kehila-Menagenet](https://bandpad.co) |  | Tel Aviv | [@amitgur](https://www.linkedin.com/in/amit-gur-65810146/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=liquidity-capital.com) [Liquidity](https://www.liquidity.inc/) | ✓ | Ramat Gan | [@maorbarel](https://github.com/maorbarel)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=loox.app) [Loox](https://jobs.loox.io/) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.mintigo.com) [Mintigo](https://www.mintigo.com) |  | Kfar Saba | [@jodoron](https://twitter.com/jodoron)
@@ -74,7 +75,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Wochit](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=bandpad.co) [קהילה מנגנת](https://bandpad.co) |  | Tel Aviv | [@amitgur](https://www.linkedin.com/in/amit-gur-65810146/)
+
 
 
 
