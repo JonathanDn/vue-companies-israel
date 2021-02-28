@@ -64,7 +64,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.squadded.co) [Squadded](https://www.squadded.co) | ✓  | Raanana | [@cyrilcs](https://twitter.com/cyrilcs)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=snyk.io) [Snyk](http://snyk.io) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=swimm.io) [Swimm](https://swimm.io/) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=tipalti.com) [Tipalti](https://tipalti.com) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=tipalti.com) [Tipalti](https://tipalti.com/careers/) | ✓ | Herzliya | [@tipalti](https://twitter.com/tipalti)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=toonimo.com) [Toonimo](https://toonimo.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.travelor.com) [Travelor](https://www.travelor.com) | ✓ | Petah Tikva | [@yakidahan](https://github.com/yakidahan)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.trexgroup.com) [T-Rex](https://www.trexgroup.com/) |  | Tel Aviv | [@lalele](https://github.com/lalele/)
