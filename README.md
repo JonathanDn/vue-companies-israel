@@ -84,6 +84,4 @@
 👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
 
 ### Donation
-If this project helped you , you can buy me a cup of coffee :)
-
-* Paypal - yonidn7@gmail.com
+If this project helped you , you can [buy](http://paypal.me/getcardsdone/6.75USD) me a cup of coffee via PayPal :)
