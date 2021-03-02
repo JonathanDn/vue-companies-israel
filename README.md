@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (54 Total)
+## Product Companies (55 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -28,6 +28,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.bluevine.com) [BlueVine](https://www.bluevine.com/) |  | Tel Aviv | [@yuval-raz-ibex](https://twitter.com/yuvalraz) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=brainpop.com) [BrainPoP](https://brainpop.com) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=breezometer.com) [BreezoMeter](https://breezometer.com) |  | Haifa | [@ofeka_dev](https://twitter.com/@ofeka_dev)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://www.careboxhealth.com) [Carebox](https://www.careboxhealth.com) |  |  Tel Aviv | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=cnvrg.io) [cnvrg.io](https://cnvrg.io) |  | Jerusalem | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.withconfetti.com) [Confetti](https://www.withconfetti.com/) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=constru.ai) [Constru.ai](https://constru.ai/) |  | Tel Aviv | [@silicakes](https://github.com/silicakes)
@@ -76,7 +77,6 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Wochit](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://www.careboxhealth.com) [Carebox](https://www.careboxhealth.com) |  |  Tel Aviv | 
 
 
 
