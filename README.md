@@ -1,21 +1,12 @@
 <div align="center">
-  
-<a href="#"><img width="320px" src="Vue_products_of_Israel_Logo.png" title="Products of Israel"></a>
-<h5>logo design credit for the amazing <a href="https://twitter.com/adircode">@adircode</a></h5>
+    <div>logo design by <a href="https://twitter.com/adircode">@adircode</a></div>
+    <img width="320px" src="logo.png" alt="Products of Israel" title="Products of Israel">
+    <h3>✨ A curated list of companies who hire Israelis - that work with <a href="https://vuejs.org/">Vue.js</a> ✨</h3>
+    <br>
 
-<h3>A curated list of Israeli product companies/ product companies who hire Israelis - that work with Vue JS</h3>
-(Sorted alphabetically)
+#### Let developers know you have open Vue positions by adding `✓` to the `Recruiting` column.
 
-</div>
-
-<br/>
-
-### Let Devs know you have open Vue Developers positions by:
-* Adding `✓` to the `Recruiting Devs` column
-
-#### This list does NOT contain freelancers, consultancies, software contractors or open source projects working with Vue JS
-
-<br/>
+(Table does NOT contain freelancers, consultancies, software contractors or open source projects).
 
 ## Product Companies (56 Total)
 
@@ -79,11 +70,6 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
 
+If you found this project helpful, [buy](https://paypal.me/jodoron/6.75USD) me a cup of coffee. ☕
 
-
-
----
-👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
-
-### Donation
-If this project helped you , you can [buy](https://paypal.me/jodoron/6.75USD) me a cup of coffee via PayPal :)
+</div>
