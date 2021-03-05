@@ -1,7 +1,7 @@
 <div align="center">
     <div>logo design by <a href="https://twitter.com/adircode">@adircode</a></div>
     <img width="320px" src="logo.png" alt="Products of Israel" title="Products of Israel">
-    <h3>✨ A curated list of companies who hire Israelis - that work with <a href="https://vuejs.org/">Vue.js</a> ✨</h3>
+    <h3>✨ A curated list of 56 companies who hire Israelis - that work with <a href="https://vuejs.org/">Vue.js</a> ✨</h3>
     <br>
 
 #### Let developers know you have open Vue positions by adding `✓` to the `Recruiting` column.
