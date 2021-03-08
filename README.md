@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (55 Total)
+## Product Companies (56 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -69,6 +69,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=toonimo.com) [Toonimo](https://toonimo.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.travelor.com) [Travelor](https://www.travelor.com) | ✓ | Petah Tikva | [@yakidahan](https://github.com/yakidahan)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.trexgroup.com) [T-Rex](https://www.trexgroup.com/) |  | Tel Aviv | [@lalele](https://github.com/lalele/)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.vcita.com) [vcita](https://www.vcita.com) | ✓ | Tel Aviv | [@TzafrirRaveh](https://www.linkedin.com/in/tzafrir-raveh-14278186/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.vonagetlv.com) [Vonage](https://www.vonagetlv.com) |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sentinelone.com) [SentinelOne](https://www.sentinelone.com/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sparkbeyond.com) [SparkBeyond](https://www.sparkbeyond.com/) | ✓ | Netanya | [@annab1](https://github.com/annab1)
