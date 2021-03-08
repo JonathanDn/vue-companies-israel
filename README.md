@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (55 Total)
+## Product Companies (56 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
