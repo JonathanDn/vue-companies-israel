@@ -17,10 +17,11 @@
 
 <br/>
 
-## Product Companies (56 Total)
+## Product Companies (57 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=activefence.com) [ActiveFence](https://activefence.com/) | ✓ | Binyamina | [@shahar84](https://github.com/shahar84) |
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=start.agritask.com) [Agritask](https://start.agritask.com/) |  | Tel Aviv | [@amit](https://github.com/amit-82) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.animaapp.com) [Anima](https://www.animaapp.com/) | ✓ | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.aquasec.com) [Aqua](https://aquasec.com/about-us/careers) | ✓ | Ramat Gan | [@eranshmil](https://github.com/eranshmil) | 
