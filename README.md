@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (58 Total)
+## Product Companies (60 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -39,12 +39,14 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.earnix.com) [Earnix](https://earnix.com/) | ✓ |  Givataym | [@jodoron](https://twitter.com/jodoron) |
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.elbitsystems.com) [Elbit Systems](https://elbitsystems.com/) | ✓ |  Netanya | [@nsxr51](https://github.com/nsxr51)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://goerudite.com) [Erudite](https://goerudite.com) | ✓ |  Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=finaloop.com) [Finaloop](https://finaloop.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https://fundbox.com) | ✓ | Tel Aviv | [@forforeach](https://twitter.com/forforeach)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  | Tel Aviv | [@akomarovsky](https://www.linkedin.com/in/alexkomarovsky/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.geteat.co.il) [Geteat](https://geteat.co.il) |  |  Omer | [@avrahamba](https://github.com/avrahamba)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://hyperguest.com) [HyperGuest](https://hyperguest.com) | ✓ |  Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=ibex-ai.com) [Ibex Medical Analytics](https://ibex-ai.com/) | ✓ | Tel Aviv / Home | [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
