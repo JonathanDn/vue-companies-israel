@@ -17,7 +17,7 @@
 
 <br/>
 
-## Product Companies (57 Total)
+## Product Companies (61 Total)
 
  Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
@@ -37,15 +37,17 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.cynerio.com) [Cynerio](https://www.cynerio.com) |  | Tel Aviv | [@db_doskey](https://twitter.com/db_doskey)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=daily.dev) [daily.dev](https://daily.dev) |  | Tel Aviv | [@idoshamun](https://twitter.com/idoshamun)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.elbitsystems.com) [Elbit Systems](https://elbitsystems.com/) | ✓ |  Netanya | [@nsxr51](https://github.com/nsxr51)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.enghouseinteractive.com) [Enghouse Interactive](https://www.enghouseinteractive.com/) | ✓ |  Raanana / Home | [@Enghouse-CCSP-PS](https://github.com/Enghouse-CCSP-PS)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.earnix.com) [Earnix](https://earnix.com/) | ✓ |  Givataym | [@jodoron](https://twitter.com/jodoron) |
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.enghouseinteractive.com) [Enghouse Interactive](https://www.enghouseinteractive.com/) | ✓ |  Raanana / Home | [@Enghouse-CCSP-PS](https://github.com/Enghouse-CCSP-PS)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.elbitsystems.com) [Elbit Systems](https://elbitsystems.com/) | ✓ |  Netanya | [@nsxr51](https://github.com/nsxr51)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://goerudite.com) [Erudite](https://goerudite.com) | ✓ |  Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=finaloop.com) [Finaloop](https://finaloop.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https://fundbox.com) | ✓ | Tel Aviv | [@forforeach](https://twitter.com/forforeach)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  | Tel Aviv | [@akomarovsky](https://www.linkedin.com/in/alexkomarovsky/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.geteat.co.il) [Geteat](https://geteat.co.il) |  |  Omer | [@avrahamba](https://github.com/avrahamba)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.greeninvoice.co.il) [GreenInvoice](https://www.greeninvoice.co.il/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.growerstech.com) [GrowersTech](https://www.growerstech.com) | ✓ |  Tel Aviv | [@eladh](https://github.com/eladh)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://hyperguest.com) [HyperGuest](https://hyperguest.com) | ✓ |  Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=ibex-ai.com) [Ibex Medical Analytics](https://ibex-ai.com/) | ✓ | Tel Aviv / Home | [@yuval-raz-ibex](https://twitter.com/yuvalraz)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.igentify.com) [Igentify](https://www.igentify.com) | ✓ | From Home | [@talitman](https://github.com/talitman)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.jacada.com/positions-in-israel) [Jacada](https://www.jacada.com/positions-in-israel) |  | Herzliya | [@jodoron](https://twitter.com/jodoron)
@@ -64,18 +66,18 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.riseup.co.il) [Riseup](https://www.riseup.co.il/) | ✓ | Tel Aviv | [@mayaschuster](https://github.com/mayaschuster)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=run.ai) [Run.ai](https://run.ai) |  | Tel Aviv | [@davidmeirlevy](https://github.com/davidmeirlevy)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=segmanta.com) [Segmanta](https://segmanta.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.squadded.co) [Squadded](https://www.squadded.co) | ✓  | Raanana | [@cyrilcs](https://twitter.com/cyrilcs)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sentinelone.com) [SentinelOne](https://www.sentinelone.com/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=snyk.io) [Snyk](http://snyk.io) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sparkbeyond.com) [SparkBeyond](https://www.sparkbeyond.com/) | ✓ | Netanya | [@annab1](https://github.com/annab1)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.squadded.co) [Squadded](https://www.squadded.co) | ✓  | Raanana | [@cyrilcs](https://twitter.com/cyrilcs)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.storemaven.com) [Storemaven](https://www.storemaven.com/) | ✓ | Tel Aviv | [@roybarash](https://github.com/roybarash)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=swimm.io) [Swimm](https://swimm.io/) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.trexgroup.com) [T-Rex](https://www.trexgroup.com/) |  | Tel Aviv | [@lalele](https://github.com/lalele/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=tipalti.com) [Tipalti](https://tipalti.com/careers/) | ✓ | Herzliya | [@tipalti](https://twitter.com/tipalti)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=toonimo.com) [Toonimo](https://toonimo.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.travelor.com) [Travelor](https://www.travelor.com) | ✓ | Petah Tikva | [@yakidahan](https://github.com/yakidahan)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.trexgroup.com) [T-Rex](https://www.trexgroup.com/) |  | Tel Aviv | [@lalele](https://github.com/lalele/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.vcita.com) [vcita](https://www.vcita.com) | ✓ | Tel Aviv | [@TzafrirRaveh](https://www.linkedin.com/in/tzafrir-raveh-14278186/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.vonagetlv.com) [Vonage](https://www.vonagetlv.com) |  | Tel Aviv | [@YonatanKra](https://twitter.com/yonatankra)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sentinelone.com) [SentinelOne](https://www.sentinelone.com/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sparkbeyond.com) [SparkBeyond](https://www.sparkbeyond.com/) | ✓ | Netanya | [@annab1](https://github.com/annab1)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.storemaven.com) [Storemaven](https://www.storemaven.com/) | ✓ | Tel Aviv | [@roybarash](https://github.com/roybarash)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wisestamp.com) [WiseStamp](https://www.wisestamp.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Wochit](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
