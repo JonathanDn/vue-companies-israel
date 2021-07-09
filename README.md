@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="#"><img width="320px" src="Vue_products_of_Israel_Logo.png" title="Products of Israel"></a>
 <h5>logo design credit for the amazing <a href="https://twitter.com/adircode">@adircode</a></h5>
 
@@ -19,7 +18,7 @@
 
 ## Product Companies (60 Total)
 
-Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
+ Company | Recruiting <a href="#"><img width="14px" src="https://github.com/JonathanDn/vue-companies-israel/blob/main/vue.png"></a> Devs | Location | Contact | 
 -----|-----|-----|-----|
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=activefence.com) [ActiveFence](https://activefence.com/) | ✓ | Binyamina | [@shahar84](https://github.com/shahar84) |
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=start.agritask.com) [Agritask](https://start.agritask.com/) |  | Tel Aviv | [@amit](https://github.com/amit-82) | 
@@ -82,6 +81,7 @@ Company | Recruiting <a href="#"><img width="14px" src="https://github.com/Jonat
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.wochit.com) [Wochit](https://wochit.com) | ✓ |  Tel Aviv | [@shmatul](https://github.com/shmatul)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yad2.co.il) [Yad2](https://www.yad2.co.il/)| ✓ |  | [@RonnyO](https://github.com/RonnyO)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.yotpo.com) [Yotpo](https://www.yotpo.com) | ✓ |  Tel Aviv | [@nimrodev](https://github.com/nimrodev)
+
 
 
 
