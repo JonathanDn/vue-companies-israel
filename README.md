@@ -38,7 +38,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=daily.dev) [daily.dev](https://daily.dev) |  | Tel Aviv | [@idoshamun](https://twitter.com/idoshamun)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=databand.ai) [Databand.ai](https://databand.ai) | ✓ | Tel Aviv | [@niv.sluzki](https://www.linkedin.com/in/niv-sluzki/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.earnix.com) [Earnix](https://earnix.com/) | ✓ |  Givataym | [@jodoron](https://twitter.com/jodoron) |
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.enghouseinteractive.com) [Enghouse Interactive](https://www.enghouseinteractive.com/) | ✓ |  Raanana / Home | [@Enghouse-CCSP-PS](https://github.com/Enghouse-CCSP-PS)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.enghouseinteractive.com) [Enghouse Interactive](https://www.enghouse.com) | ✓ |  Raanana / Home | [@Enghouse-CCSP-PS](https://www.linkedin.com/in/shirly-ferens-b6874151/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.elbitsystems.com) [Elbit Systems](https://elbitsystems.com/) | ✓ |  Netanya | [@nsxr51](https://github.com/nsxr51)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://goerudite.com) [Erudite](https://goerudite.com) | ✓ |  Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=finaloop.com) [Finaloop](https://finaloop.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
