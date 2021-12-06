@@ -71,7 +71,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sparkbeyond.com) [SparkBeyond](https://www.sparkbeyond.com/) | ✓ | Netanya | [@annab1](https://github.com/annab1)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.squadded.co) [Squadded](https://www.squadded.co) | ✓  | Raanana | [@cyrilcs](https://twitter.com/cyrilcs)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.storemaven.com) [Storemaven](https://www.storemaven.com/) | ✓ | Tel Aviv | [@roybarash](https://github.com/roybarash)
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=swimm.io) [Swimm](https://swimm.io/) | ✓ | Tel Aviv | [@yhamry](https://www.linkedin.com/in/omer-fishman-8b246177)
+![Logo](https://swimm.io/favicon.ico) [Swimm](https://swimm.io/) | ✓ | Tel Aviv | [@yhamry](https://www.linkedin.com/in/omer-fishman-8b246177)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.trexgroup.com) [T-Rex](https://www.trexgroup.com/) |  | Tel Aviv | [@lalele](https://github.com/lalele/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=tipalti.com) [Tipalti](https://tipalti.com/careers/) | ✓ | Herzliya | [@tipalti](https://twitter.com/tipalti)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=toonimo.com) [Toonimo](https://toonimo.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
