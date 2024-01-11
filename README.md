@@ -24,6 +24,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=activefence.com) [ActiveFence](https://activefence.com/) | ✓ | Binyamina | [@shahar84](https://github.com/shahar84) |
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=start.agritask.com) [Agritask](https://start.agritask.com/) |  | Tel Aviv | [@amit](https://github.com/amit-82) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.animaapp.com) [Anima](https://www.animaapp.com/) | ✓ | Tel Aviv | [@orarbel](https://github.com/orarbel) | 
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=applitools.com) [Applitools](https://applitools.com/careers) |  | Ramat Gan | [@eranshmil](https://github.com/eranshmil) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.aquasec.com) [Aqua](https://aquasec.com/about-us/careers) | ✓ | Ramat Gan | [@eranshmil](https://github.com/eranshmil) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.axonius.com) [Axonius](https://www.axonius.com/) | ✓ | Tel Aviv | [@galgertz](https://github.com/galgertz) | 
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.bluevine.com) [BlueVine](https://www.bluevine.com/) |  | Tel Aviv | [@yuval-raz-ibex](https://twitter.com/yuvalraz) | 
