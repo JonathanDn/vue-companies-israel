@@ -43,6 +43,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.enghouseinteractive.com) [Enghouse Interactive](https://www.enghouse.com) | ✓ |  Raanana / Home | [@Enghouse-CCSP-PS](https://www.linkedin.com/in/shirly-ferens-b6874151/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=https://goerudite.com) [Erudite](https://goerudite.com) | ✓ |  Tel Aviv | [@eranshmil](https://github.com/eranshmil)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=finaloop.com) [Finaloop](https://finaloop.com) | ✓ | Tel Aviv | [@eranshmil](https://github.com/eranshmil)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=finqai.com) [FINQ](https://www.finqai.co.il) | ✓ |  Tel Aviv | [@dananz](https://github.com/dananz)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=fundbox.com) [Fundbox](https://fundbox.com) | ✓ | Tel Aviv | [@forforeach](https://twitter.com/forforeach)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.gaviti.com) [Gaviti](https://www.gaviti.com) |  | Tel Aviv | [@akomarovsky](https://www.linkedin.com/in/alexkomarovsky/)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.geteat.co.il) [Geteat](https://geteat.co.il) |  |  Omer | [@avrahamba](https://github.com/avrahamba)
