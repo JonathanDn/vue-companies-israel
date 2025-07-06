@@ -69,6 +69,7 @@
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=run.ai) [Run.ai](https://run.ai) |  | Tel Aviv | [@davidmeirlevy](https://github.com/davidmeirlevy)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=segmanta.com) [Segmanta](https://segmanta.com) |  | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sentinelone.com) [SentinelOne](https://www.sentinelone.com/) | ✓ | Tel Aviv | [@jodoron](https://twitter.com/jodoron)
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=semperis.com) [Semperis](https://semperis.com/) | ✓ |  Ramat Gan | [@Meidanws](https://github.com/meidanws) |
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=snyk.io) [Snyk](http://snyk.io) | ✓ | Tel Aviv | [@saarkuriel](https://twitter.com/saarkuriel)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.sparkbeyond.com) [SparkBeyond](https://www.sparkbeyond.com/) | ✓ | Netanya | [@annab1](https://github.com/annab1)
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.squadded.co) [Squadded](https://www.squadded.co) | ✓  | Raanana | [@cyrilcs](https://twitter.com/cyrilcs)
